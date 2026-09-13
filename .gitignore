@@ -1,0 +1,11 @@
+# Local secrets and environments
+.env
+.venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+data/*.db
+
+# Generated audio recordings
+*.wav
